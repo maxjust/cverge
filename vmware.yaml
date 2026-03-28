@@ -10,6 +10,19 @@ payload:
     - +.vmc.vmware.com
     - +.vmware.zendesk.com
     - +.vmware-avi.zendesk.com
+    - +.onetrust.com
+    - +.cookielaw.org
+    - +.broadcom.com
+    - +.broadcom.net
+    - +.vmware.com
+    - +.vmware.net
+    - +.vmwareidentity.com
+    - +.workspace-one.com
+    - +.wolkenservicedesk.com
+    - +.cloud.vmware.com
+    - +.vmc.vmware.com
+    - +.vmware.zendesk.com
+    - +.vmware-avi.zendesk.com
     - dl.broadcom.com
     - support.broadcom.com
     - knowledge.broadcom.com
