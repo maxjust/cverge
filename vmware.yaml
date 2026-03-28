@@ -1,63 +1,31 @@
 payload:
-# =============================================
-# VMware / Broadcom - домены и поддомены
-# =============================================
-
-# Broadcom - главный портал
-  - +.broadcom.com
-  - +.broadcom.net
-
-# Broadcom - загрузки
-  - dl.broadcom.com
-  - support.broadcom.com
-  - knowledge.broadcom.com
-  - community.broadcom.com
-  - docs.broadcom.com
-
-# Broadcom - Service Desk
-  - +.wolkenservicedesk.com
-
-# VMware - основные домены
-  - +.vmware.com
-  - +.vmware.net
-
-# VMware - загрузки и обновления (legacy)
-  - depot.vmware.com
-  - hostupdate.vmware.com
-  - vapp-updates.vmware.com
-
-# VMware - разработчикам
-  - developer.vmware.com
-  - developer.broadcom.com
-  - docs.vmware.com
-  - code.vmware.com
-  - blogs.vmware.com
-  - flings.vmware.com
-
-# VMware - утилиты и совместимость
-  - configmax.vmware.com
-  - interopmatrix.vmware.com
-  - marketplace.cloud.vmware.com
-  - pathfinder.vmware.com
-  - customerconnect.vmware.com
-
-# VMware - облако
-  - +.cloud.vmware.com
-  - +.vmc.vmware.com
-
-# VMware - аутентификация и identity
-  - +.vmwareidentity.com
-  - +.workspace-one.com
-
-# VMware - CDN и статика
-  - +.vmware.zendesk.com
-  - +.vmware-avi.zendesk.com
-
-# Broadcom - DOMAIN правила (для merge/override)
-  - DOMAIN-SUFFIX,broadcom.com
-  - DOMAIN-SUFFIX,broadcom.net
-  - DOMAIN-SUFFIX,vmware.com
-  - DOMAIN-SUFFIX,vmware.net
-  - DOMAIN-SUFFIX,vmwareidentity.com
-  - DOMAIN-SUFFIX,workspace-one.com
-  - DOMAIN-SUFFIX,wolkenservicedesk.com
+    - +.broadcom.com
+    - +.broadcom.net
+    - +.vmware.com
+    - +.vmware.net
+    - +.vmwareidentity.com
+    - +.workspace-one.com
+    - +.wolkenservicedesk.com
+    - +.cloud.vmware.com
+    - +.vmc.vmware.com
+    - +.vmware.zendesk.com
+    - +.vmware-avi.zendesk.com
+    - dl.broadcom.com
+    - support.broadcom.com
+    - knowledge.broadcom.com
+    - community.broadcom.com
+    - docs.broadcom.com
+    - developer.broadcom.com
+    - depot.vmware.com
+    - hostupdate.vmware.com
+    - vapp-updates.vmware.com
+    - developer.vmware.com
+    - docs.vmware.com
+    - code.vmware.com
+    - blogs.vmware.com
+    - flings.vmware.com
+    - configmax.vmware.com
+    - interopmatrix.vmware.com
+    - marketplace.cloud.vmware.com
+    - pathfinder.vmware.com
+    - customerconnect.vmware.com
