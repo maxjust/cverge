@@ -198,7 +198,11 @@ payload:
   - +.ton.org
   - +.tx.me
   - +.usercontent.dev
-  -
+  
+  - play.google.com
+  - +.openwebui.com
+  - +.medium.com
+  
   # OpenAI
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,chatgpt.com
